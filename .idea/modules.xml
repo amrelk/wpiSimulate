@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wpiSimulate.iml" filepath="$PROJECT_DIR$/wpiSimulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wpiSimulate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wpiSimulate_main.iml" group="wpiSimulate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wpiSimulate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wpiSimulate_test.iml" group="wpiSimulate" />
+    </modules>
+  </component>
+</project>
